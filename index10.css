@@ -1,0 +1,37 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+.nonactive{
+    color:blue;
+}
+.active{
+    color:red;
+}
+button{
+    background-color: yellow;
+    border:none;
+    width:100px;
+    height:30px;
+    color:black;
+    font-weight:bold;
+    margin-left:50%;
+  cursor:pointer;
+}
+.title{
+    font-family:Arial;
+    color:white;
+    font-size:30px;
+}
+h2{
+    color:white;
+    margin-left:45%;
+    margin-top:20%;
+}
+body{
+    background-image:url(abstract-digital-technology-geometric-background-web-cyber-innovation_1017-49517.avif);
+ background-size: cover;    
+  background-position: center;  
+  background-repeat: no-repeat; 
+  min-height: 100vh;
+}
